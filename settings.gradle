@@ -1,0 +1,5 @@
+include ':module-doctor'
+include ':module-base'
+include ':library-base'
+include ':app'
+rootProject.name = "JetpackDemo"
